@@ -213,7 +213,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 1000;
   height: 1000;
-  background: url("../img/mit.jpg") top center;
+  background: url("../img/mit cropped.jpg") top center;
   background-size: cover;
 }
 
